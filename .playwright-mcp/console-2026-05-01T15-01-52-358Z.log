@@ -1,0 +1,22 @@
+[    2194ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/client/#/auth/login:0
+[   84448ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   84453ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   84702ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[   84721ms] [LOG] 0 @ https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js:0
+[   84725ms] [LOG] 1 @ https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js:0
+[   84728ms] [LOG] 2 @ https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js:0
+[  176724ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[  176733ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[  664103ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[  664108ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js:0
+[  892235ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://rahulshettyacademy.com/api/ecom/user/get-cart-products/69a6d2d8415d779f9b545cbc:0
+[  900189ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://rahulshettyacademy.com/api/ecom/user/get-cart-products/69a6d2d8415d779f9b545cbc:0
+[ 1158506ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://rahulshettyacademy.com/api/ecom/order/create-order:0
+[ 1180959ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://rahulshettyacademy.com/api/ecom/order/create-order:0

@@ -1,0 +1,29 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@cucumber/cucumber": "^12.7.0",
+    "exceljs": "^4.4.0",
+    "playwright": "^1.58.2",
+    "playwright-core": "^1.58.2",
+    "undici-types": "^7.18.2"
+  },
+  "devDependencies": {
+    "@azure/identity": "^4.13.1",
+    "@azure/playwright": "^1.1.4",
+    "@playwright/mcp": "^0.0.72",
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.2"
+  }
+}
