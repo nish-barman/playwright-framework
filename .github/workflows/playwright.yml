@@ -16,7 +16,7 @@ jobs:
     - name: Install dependencies
       run: npm ci
     - name: Install Chromium
-      run: npx playwright install chromium
+      run: npx playwright install --with-deps chromium
     - name: Run Playwright tests
       run: npx playwright test tests/order1.spec.js
     - uses: actions/upload-artifact@v4
